@@ -1,0 +1,19 @@
+{
+  "name": "api_pet_finder",
+  "version": "1.0.0",
+  "description": "Angular API Pet Page Challenge Git Repo https://github.com/kdszafranski/api_lecture_master.git Description Angular API Pet Page Challenge You're going to making a single page web application with Angular and the PetFinder data API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "author": "Kati Lueth",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.0",
+    "angular-route": "^1.5.0",
+    "angular-router": "0.0.2",
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.4"
+  }
+}
