@@ -1,7 +1,7 @@
 # Angular API Pet Page
 
 ### Description
-SPA with Angular and the PetFinder API.
+SPA with Angular and the PetFinder API. When user clicks on animal type tab a random animal's photo and description of the type is displayed. Data comes from the PetFinder API. Home screen displays goats random animal information and photo, because goats are amusing.
 
 #### Routes
 * 3 separate routes in Angular app, for dogs, hedgehogs and parakeets available in PetFinder API.
