@@ -1,16 +1,14 @@
-Angular API Pet Page Challenge
+# Angular API Pet Page
 
-Description
-Angular API Pet Page
+### Description
+SPA with Angular and the PetFinder API.
 
-A SPA with Angular and the PetFinder API.
+#### Routes
+* 3 separate routes in Angular app, for dogs, hedgehogs and parakeets available in PetFinder API.
 
-Routes
-3 separate routes in Angular app, for dogs, hedgehogs and parakeets available in PetFinder API.
-
-Each route has its own controller. When the view is changed, a new JSONP request is made to 
+* Each route has its own controller. When the view is changed, a new JSONP request is made to 
 PetFinder to get a random pet of that kind.
 
-Display
-Information about the pet is displayed on the DOM, formatted with Bootstrap.
-Included are images of the pet in the display. 
+#### Display
+* Information about the pet is displayed on the DOM, formatted with Bootstrap.
+* Included are images of the pet in the display. 
